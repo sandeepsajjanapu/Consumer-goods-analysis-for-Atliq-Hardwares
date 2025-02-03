@@ -1,0 +1,1 @@
+# Consumer-goods-analysis-for-Atliq-Hardwares
