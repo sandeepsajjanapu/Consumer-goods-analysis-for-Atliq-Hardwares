@@ -44,10 +44,6 @@ Atliq Hardwares is an **imaginary computer hardware company** operating in India
 - Found the **top 3 products** in each division that had the **highest total sold quantity** in **2021**.  
 - **Fields:** `division`, `product_code`, `product`, `total_sold_quantity`, `rank_order`  
 
-markdown
-Copy
-Edit
-
 ## 🛠 **Tools & Technologies Used**  
 - **SQL** (PostgreSQL / MySQL)  
 - **Excel** (Data Cleaning & Pivot Tables)  
@@ -55,8 +51,10 @@ Edit
   
 
 ## 🚀 **How to Use this Project?**  
-1. Clone this repository:  
-**git clone https://github.com/your-username/Atliq-Hardwares-Analysis.git**
+1. Clone this repository:
+```bash
+   git clone https://github.com/sandeepsajjanapu/amazon-sales-analysis.git
+   ```
 2. Open the SQL queries & execute them in a database.  
 3. Use the Power BI/Tableau files to explore the visual insights.  
 
