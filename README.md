@@ -66,6 +66,4 @@ Atliq Hardwares is an **imaginary computer hardware company** operating in India
 ---
 
 💡 **Feel free to contribute or ask any questions!**  
-📌 **Author:** [Your Name]  
-📌 **LinkedIn:** [[LinkedIn]](https://www.linkedin.com/in/sandeep-sajjanapu/)  
-📌 **GitHub:** [Your GitHub Profile]  
+[📧 Email](mailto:sandeepsajjanapu6@gmail.com) | [💼 LinkedIn](https://linkedin.com/in/sandeep-sajjanapu) | [🐙 GitHub](https://github.com/sandeepsajjanapu)
